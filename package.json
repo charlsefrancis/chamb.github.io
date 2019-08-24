@@ -1,0 +1,32 @@
+{
+  "name": "chamb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "charlsefrancis"
+  },
+  "keywords": [
+    "charm",
+    "ecommerce",
+    "website"
+  ],
+  "author": "recognition",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.3.1",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "font-awesome": "^4.7.0",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
